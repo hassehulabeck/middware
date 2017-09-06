@@ -1,0 +1,11 @@
+{
+  "name": "middleware",
+  "version": "1.0.0",
+  "description": "En övning i hur man kan skapa en loggfil med middleware.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hans",
+  "license": "ISC"
+}

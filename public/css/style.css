@@ -1,0 +1,14 @@
+html {
+    background-color: gray;
+}
+body {
+    width: 80%;
+    margin: 0 auto;
+    background-color: slategray;
+    box-shadow: 3px 3px 3px;
+    text-align: center;
+    padding: 1em;
+}
+h1 {
+    font-family: 'Georgia';
+}
